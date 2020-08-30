@@ -1,0 +1,7 @@
+node_modules
+coverage/
+.history/
+.env
+
+yarn-error.log
+yarn.lock
